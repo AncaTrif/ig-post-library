@@ -1,0 +1,42 @@
+{
+  "title": "Plum Cake",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-09-27"
+  ],
+  "season": [
+    "autumn",
+    "late summer",
+    "cold season"
+  ],
+  "tags": [
+    "plum cake",
+    "baking",
+    "autumn fruit"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A baked plum cake in a round tin, held on a wooden counter. Text: Autumn is when the cooking ideas come."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "Top view of the plum cake with whole plums baked into the golden surface. Text: Suddenly, plums, grapes and pumpkins are everywhere."
+    },
+    {
+      "file": "03.jpg",
+      "alt": "Plum cake with a slice cut out, showing the soft inside, on a kitchen counter. Text: As the days get shorter, I spend more time indoors."
+    },
+    {
+      "file": "04.jpg",
+      "alt": "Two white plates with slices of plum cake and cake forks on a dark wooden table. Text: It soothes me to make something that smells this good."
+    },
+    {
+      "file": "05.jpg",
+      "alt": "A slice of plum cake dusted with powdered sugar on a white plate, with a bowl of lemons and apples behind. Text: And then I share it."
+    }
+  ]
+}

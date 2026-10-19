@@ -1,0 +1,44 @@
+{
+  "title": "Pumpkin Love",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-10-05",
+    "2025-11-04",
+    "2025-11-02"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "pumpkin",
+    "flatbread",
+    "casserole",
+    "roasting"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "Two halves of a pumpkin with seeds on a wooden board. Text: There's something funny about pumpkins."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "Close-up of the seeds and fibres inside a pumpkin half. Text: First, they laugh in your face with their funny \"teeth\"."
+    },
+    {
+      "file": "03.jpg",
+      "alt": "Baking tray with sliced pumpkin, sage, red onion and aubergine on baking paper. Text: They never cease to smile, even when I bake them on an oven tray."
+    },
+    {
+      "file": "04.jpg",
+      "alt": "Two flatbread doughs topped with pumpkin slices, sage and anchovies, before baking. Text: Or when they end up on a pizza."
+    },
+    {
+      "file": "05.jpg",
+      "alt": "A white casserole dish full of roasted pumpkin and chickpeas on a kitchen counter. Text: They look cheerful even diced in a casserole."
+    }
+  ]
+}

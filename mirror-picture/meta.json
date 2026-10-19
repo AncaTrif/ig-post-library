@@ -1,0 +1,26 @@
+{
+  "title": "Anca in Mirror Autumn",
+  "format": "single_image",
+  "post_type": "personal",
+  "photo_dates": [
+    "2026-10-16"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "selfie",
+    "haircut",
+    "kitchen",
+    "lifestyle"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A woman with a short bob haircut takes a mirror selfie in a bright kitchen with sage green cabinets and wooden floors, wearing a green knitted sweater and dark wide trousers, one hand at the back of her head."
+    }
+  ]
+}

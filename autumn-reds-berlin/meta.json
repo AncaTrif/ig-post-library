@@ -1,0 +1,14 @@
+{
+  "title": "Autumn Reds Berlin",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-10-13"],
+  "season": ["autumn", "cold season"],
+  "tags": ["berlin", "autumn", "city", "architecture", "shop window", "interior design"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A deep red brick and plaster building with lit windows at dusk under a blue sky, with parked bicycles, white benches and a person sitting with a phone in the foreground."},
+    {"file": "02.jpg", "alt": "View through a shop window into a design store with a yellow floor lamp, a teal velvet armchair, a brass table lamp and a long wooden table in front of bookshelves."}
+  ]
+}

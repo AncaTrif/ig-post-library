@@ -1,0 +1,13 @@
+{
+  "title": "Mung Bean Soup",
+  "format": "single_image",
+  "post_type": "food",
+  "photo_dates": ["2025-10-21"],
+  "season": ["autumn", "winter", "cold season"],
+  "tags": ["soup", "mung beans", "spicy", "ginger", "turmeric", "garam masala"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "Top view of a steel pot of mung bean soup with leafy greens and small pieces of tomato, stirred with a wooden spoon on a stovetop."}
+  ]
+}

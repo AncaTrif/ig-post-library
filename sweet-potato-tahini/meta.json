@@ -1,0 +1,28 @@
+{
+  "title": "Sweet Potato Tahini Bowl",
+  "format": "single_image",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-10-27"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "sweet potato",
+    "tahini",
+    "quinoa",
+    "pork",
+    "grain bowl",
+    "recipe"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "Side view of a white plate with a slice of roasted pork topped with a baked apple slice and tahini dressing, next to quinoa and roasted sweet potato cubes. Text: Tahini Sweet Potato Côtelette. Recipe in the caption."
+    }
+  ]
+}
