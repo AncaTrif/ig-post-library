@@ -1,0 +1,8 @@
+# ig-post-library
+
+Image and caption library for an automated Instagram posting workflow built with n8n.
+
+Each folder is one post: slides (01.jpg ...), caption.txt, meta.json and optionally recipe.md.
+The workflow picks one post per run, publishes it through the Instagram Graph API and logs the decision in a Google Sheet.
+
+All photos, illustrations and texts are by Anca Trif. All rights reserved.
