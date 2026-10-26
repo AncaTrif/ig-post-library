@@ -1,0 +1,30 @@
+{
+  "title": "Sea Salt",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": [
+    "2026-10-15"
+  ],
+  "season": [
+    "all year"
+  ],
+  "tags": [
+    "sea salt",
+    "meersalz",
+    "salt",
+    "ingredients",
+    "bio company"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "IMG_4638 - Sea salt bag.HEIC",
+      "alt": "A hand holding a 1 kg bag of coarse Bio Company Meersalz, with a bowl of moist sea salt and chopped kohlrabi in the background."
+    },
+    {
+      "file": "IMG_4639 - Salt.MOV",
+      "alt": "Short video of coarse, slightly moist sea salt."
+    }
+  ]
+}

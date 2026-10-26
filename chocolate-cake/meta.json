@@ -1,0 +1,45 @@
+{
+  "title": "Chocolate Cake",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-10-02",
+    "2025-10-03"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "chocolate cake",
+    "birthday",
+    "dates",
+    "low sugar",
+    "almond flour",
+    "sour cherries"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A 70 percent dark chocolate bar in its wrapper, half chopped, on a wooden board with a knife. Text: October is the month of birthdays in my family."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "Chocolate cake batter in a springform pan inside the oven. Text: And I get to make delicious low-sugar cakes."
+    },
+    {
+      "file": "03.jpg",
+      "alt": "Baking ingredients on a wooden counter: cocoa, almond flour, butter, sour cream, eggs and a bowl of dates. Text: This one is with dates, butter, almond flour, sour cherries from the garden (preserved)."
+    },
+    {
+      "file": "04.jpg",
+      "alt": "The finished chocolate cake with a slice taken out. Text: The result is naturally sweet, firm in texture, and some cream mixed with a pinch of sugar is all that is needed for the finish."
+    },
+    {
+      "file": "05.jpg",
+      "alt": "A kitchen sink with a mixing bowl, whisk, wooden spoon and knife in soapy water after the baking."
+    }
+  ]
+}

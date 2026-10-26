@@ -1,0 +1,37 @@
+{
+  "title": "Lunch Table",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-09-27",
+    "2025-09-28"
+  ],
+  "season": [
+    "late summer",
+    "autumn"
+  ],
+  "tags": [
+    "kolbász",
+    "family",
+    "garden fruit",
+    "grapes",
+    "lunch",
+    "preserves"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A person in a mustard sweater reaching over a laid lunch table. Text: Every summer we travel back to our families."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "Close-up of fried Hungarian Kolbász sausage slices on a plate. Text: This summer we brought delicious Hungarian Kolbász and grapes from the garden."
+    },
+    {
+      "file": "03.jpg",
+      "alt": "A lunch table with a veggie grain bowl and a bunch of grapes. Text: We celebrate these little treasures over a good lunch break every day."
+    }
+  ]
+}

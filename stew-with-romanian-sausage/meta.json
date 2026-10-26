@@ -1,0 +1,27 @@
+{
+  "title": "Stew with Romanian Sausage",
+  "format": "single_image",
+  "post_type": "food",
+  "photo_dates": [
+    "2025-10-29"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "sausage stew",
+    "romanian",
+    "tomato",
+    "comfort food",
+    "cast iron"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A table seen from above with a cast iron pot of tomato and sausage stew, a bowl of green salad with a wooden spoon, a bowl of spaghetti and empty plates on woven mats."
+    }
+  ]
+}
