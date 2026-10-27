@@ -1,0 +1,16 @@
+{
+  "title": "Rosehip Bush at the Playground",
+  "format": "single_image",
+  "post_type": "lifestyle",
+  "photo_dates": ["2025-10-05"],
+  "season": ["autumn", "cold season"],
+  "tags": ["rosehip", "autumn", "playground", "nature"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A rosehip bush in autumn with dry fruit hanging from twigs, leaves fading from green to red and pink"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Halloween Pumpkin",
+  "format": "single_image",
+  "post_type": "personal",
+  "photo_dates": ["2026-10-25"],
+  "season": ["autumn", "cold season"],
+  "tags": ["halloween", "pumpkin", "carving", "family"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A carved pumpkin lit from inside at dusk, with a friendly, slightly spooky face"
+    }
+  ]
+}

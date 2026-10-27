@@ -1,0 +1,44 @@
+{
+  "title": "Lasagna Bolognese",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2026-10-24",
+    "2026-10-25"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "lasagna",
+    "bolognese",
+    "pasta",
+    "comfort food",
+    "kids"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "Kitchen counter with the lasagna ingredients and pots"
+    },
+    {
+      "file": "02.jpg",
+      "alt": "A child standing on a step stool at the stove"
+    },
+    {
+      "file": "03.jpg",
+      "alt": "Baked lasagna in its dish, seen from above"
+    },
+    {
+      "file": "04.jpg",
+      "alt": "A plate of lasagna with a spoonful of sour cream"
+    },
+    {
+      "file": "05.jpg",
+      "alt": "Lasagna on a child's plate"
+    }
+  ]
+}

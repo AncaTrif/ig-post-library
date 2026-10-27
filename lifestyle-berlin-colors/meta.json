@@ -1,0 +1,14 @@
+{
+  "title": "Berlin Colors",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-10-24"],
+  "season": ["autumn", "cold season"],
+  "tags": ["berlin", "autumn", "neon", "street", "colors"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A Berlin street with autumn trees and a bakery sign"},
+    {"file": "02.jpg", "alt": "A market stall on a Berlin square"}
+  ]
+}
