@@ -1,0 +1,17 @@
+{
+  "title": "Autumn Walk in Prenzlauer Berg",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-11-01"],
+  "season": ["autumn", "cold season"],
+  "tags": ["autumn", "bike ride", "coffee", "prenzlauer berg", "family", "kollwitzplatz"],
+  "pin_to_date": null,
+  "not_before": null,
+  "location_id": "357246291",
+  "slides": [
+    {"file": "01.jpg", "alt": "A Prenzlauer Berg street with autumn trees and cobblestones. Text: We took a bike trip on an autumn afternoon and our daughter fell asleep on the bike."},
+    {"file": "02.jpg", "alt": "A sidewalk with yellow leaves and parked bikes under bare trees. Text: Now we look to the left and right and ask ourselves: how do we get our coffee without waking her up?"},
+    {"file": "03.jpg", "alt": "A hand holding a red Coffee Circle paper cup in front of coffee shop shelves. Text: We finally made it in the queue, while she still slept."},
+    {"file": "04.jpg", "alt": "Three paper coffee cups held by adult and child hands at a cafe table. Text: And she did not cry one bit when she woke up. She just sipped on her babyccino."}
+  ]
+}
