@@ -1,0 +1,28 @@
+{
+  "title": "Pistachio Cake at Coffea",
+  "format": "single_image",
+  "post_type": "food",
+  "photo_dates": [
+    "2026-10-22"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "pistachio",
+    "cake",
+    "cafe",
+    "friedrichshain",
+    "coffea"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "location_id": "115166036690868",
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A slice of layered pistachio cake with chocolate sponge, ladyfingers and chopped pistachios on a blue plate at a wooden outdoor cafe table"
+    }
+  ]
+}
