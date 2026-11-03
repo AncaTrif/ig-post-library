@@ -1,0 +1,16 @@
+{
+  "title": "Salmon and Risotto",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-10-26"],
+  "season": ["autumn", "cold season"],
+  "tags": ["salmon", "risotto", "parmesan", "lunch", "chocolate coconut cake", "sour cherry compote", "home cooking"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A plate of oven salmon with lemon and rosemary on a woven placemat, with the text: This meal turned out to be delicious."},
+    {"file": "02.jpg", "alt": "A plate with salmon, lemon and creamy carrot risotto, with the text: I made the risotto with a few carrots, some butter and, most importantly, parmesan at the end."},
+    {"file": "03.jpg", "alt": "A half eaten piece of salmon with flaked pieces and lemon on a white plate, with the text: I loved the salmon, but I kept going back for more risotto."},
+    {"file": "04.jpg", "alt": "A slice of chocolate coconut cake topped with sour cherry compote on a white plate, with the text: The chocolate and coconut cake deserved a layer of peanut butter and Romanian sour cherry compote."}
+  ]
+}
