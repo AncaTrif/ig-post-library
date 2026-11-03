@@ -1,0 +1,19 @@
+{
+  "title": "Rye Bread and Rolls",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-10-30"],
+  "season": ["autumn", "cold season"],
+  "tags": ["bread", "rye bread", "sourdough", "kaiser rolls", "home baking", "breakfast"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A round dark rye loaf with a star-shaped scoring on a striped cloth, with the text: I've started baking more bread at home."},
+    {"file": "02.jpg", "alt": "A bowl of dough resting under a checkered cloth on a patterned tablecloth, with the text: My sourdough starter is getting stronger by the day."},
+    {"file": "03.jpg", "alt": "Nine shaped Kaiser roll dough knots on a baking tray lined with parchment, with the text: The Kaiser rolls my daughter loves need only good wheat flour and dry yeast."},
+    {"file": "04.jpg", "alt": "Golden baked Kaiser rolls on parchment paper, with the text: They turn out delightfully crunchy and flavorful."},
+    {"file": "05.jpg", "alt": "A round rye loaf and Kaiser rolls in a woven basket, with the text: It feels good to feed my family fresh bread at every breakfast."},
+    {"file": "06.jpg", "alt": "A sliced rye and wheat loaf on a wooden board on a table, with the text: Still, this mixed rye and wheat bread is the one I enjoy with any meal."},
+    {"file": "07.jpg", "alt": "The crumb of a cut rye and wheat loaf on a wooden board, with the text: Homemade bread is simply better for us than a store-bought loaf."}
+  ]
+}
