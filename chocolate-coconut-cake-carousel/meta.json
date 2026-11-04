@@ -1,0 +1,17 @@
+{
+  "title": "Chocolate Coconut Pumpkin Cake",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-10-25"],
+  "season": ["autumn", "cold season"],
+  "tags": ["chocolate cake", "coconut", "pumpkin", "hokkaido", "banana", "low sugar", "baking", "recipe"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A hand holding a jar of mild organic coconut fat in front of cake ingredients, with the text: I found this amazing coconut fat at the grocery store."},
+    {"file": "02.jpg", "alt": "Cake ingredients on a wooden counter: flour, eggs, a bowl of grated coconut and a halved pumpkin, with the text: And my first thought was: I'm going to make a coconut cake."},
+    {"file": "03.jpg", "alt": "A jar of coconut fat and a glass with a spoonful of it, next to a bar of dark chocolate, with the text: It smelled heavenly and it was softer than butter."},
+    {"file": "04.jpg", "alt": "A baked round cake topped with toasted coconut flakes on a wooden counter, with the text: I added dark chocolate, bananas and Hokkaido, since I had them on hand. I refrained from adding sugar."},
+    {"file": "05.jpg", "alt": "A baked cake in a springform tin covered in toasted coconut, seen from above, with the text: The toasted coconut flakes on top were a delight."}
+  ]
+}
