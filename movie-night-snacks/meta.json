@@ -1,0 +1,32 @@
+{
+  "title": "Movie Night Snacks",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": [
+    "2026-10-25"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "movie night",
+    "ghibli",
+    "snacks",
+    "family",
+    "weekend",
+    "chips"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A round wooden coffee table with bowls of chips and small snacks, bags of crisps in a basket and a pack of wet wipes, in a dim living room."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "A Studio Ghibli title screen with Totoro projected on a blue living room wall, with a coffee table of snacks in the foreground."
+    }
+  ]
+}
