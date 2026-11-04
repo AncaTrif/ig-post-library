@@ -1,0 +1,13 @@
+{
+  "title": "Painting Women Who Cook",
+  "format": "single_image",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-11-03"],
+  "season": ["autumn", "cold season"],
+  "tags": ["gouache", "painting", "illustration", "cooking", "women who cook", "kitchen"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A gouache painting in progress of a person with grey hair, seen from behind, standing at a tiled kitchen table with a blue jug, baskets, a pot and a small white jug on it, lying on a wooden desk next to headphones."}
+  ]
+}
