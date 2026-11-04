@@ -1,0 +1,30 @@
+{
+  "title": "Baking the Chocolate Coconut Cake with My Daughter",
+  "format": "reel",
+  "cover": "cover.jpg",
+  "post_type": "food",
+  "photo_dates": [
+    "2026-10-25"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "chocolate cake",
+    "coconut",
+    "hokkaido",
+    "baking with kids",
+    "family",
+    "peanut butter",
+    "sour cherry"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "video.mp4",
+      "alt": "A handheld, slightly shaky kitchen video of a mother and daughter baking a chocolate coconut pumpkin cake together, ending with a slice served with peanut butter and sour cherry marmalade."
+    }
+  ]
+}
