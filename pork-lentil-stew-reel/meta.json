@@ -1,0 +1,17 @@
+{
+  "title": "Red Wine Pork & Black Lentil Stew",
+  "format": "reel",
+  "cover": "IMG_4756.jpg",
+  "post_type": "food",
+  "photo_dates": ["2026-11-05"],
+  "season": ["autumn", "cold season"],
+  "tags": ["pork", "lentils", "black beans", "stew", "one-pot", "dutch oven", "red wine", "recipe"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "video.mp4",
+      "alt": "A one-pot kitchen video of frozen pork chops, black Beluga lentils, potatoes and cauliflower cooking into a red wine stew in a Dutch oven."
+    }
+  ]
+}
