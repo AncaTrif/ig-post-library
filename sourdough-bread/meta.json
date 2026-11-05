@@ -1,0 +1,17 @@
+{
+  "title": "First sourdough bread",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2025-11-10"],
+  "season": "autumn",
+  "tags": ["sourdough", "bread", "starter", "homemade", "family"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "A loaf of bread in a cast iron pot, going into the oven"},
+    {"file": "02.jpg", "alt": "The baked sourdough loaf, golden and rustic"},
+    {"file": "03.jpg", "alt": "Close-up of the crackly sourdough crust"},
+    {"file": "04.jpg", "alt": "Fresh sourdough bread on the counter"},
+    {"file": "05.jpg", "alt": "The loaf on the counter with a child's hand reaching in"}
+  ]
+}
