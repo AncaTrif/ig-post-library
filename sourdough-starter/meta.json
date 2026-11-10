@@ -1,0 +1,26 @@
+{
+  "title": "Growing my own sourdough starter",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-11-02"],
+  "season": ["autumn", "cold season"],
+  "tags": ["sourdough", "starter", "rye", "wholegrain rye", "fermentation", "bread making", "pantry"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "01.jpg", "alt": "Shop shelves full of different kinds of flour. Text: It all starts at the grocery store, with so many varieties of flour to choose from."},
+    {"file": "02.jpg", "alt": "Bags of wholegrain rye and wheat flour on a shelf. Text: I love rye, so naturally I choose Roggen Vollkorn Mehl (wholegrain rye) and stock up my pantry."},
+    {"file": "03.jpg", "alt": "An empty labelled jar with rye flour bags, a thermometer and a spoon. Text: In bread making, I am religious about exact measurements and temperatures."},
+    {"file": "04.jpg", "alt": "The jar with rye flour on a kitchen scale. Text: I start with 20 g of flour and 20 ml of water."},
+    {"file": "05.mp4", "alt": "Short video of water being poured into the jar with rye flour."},
+    {"file": "06.mp4", "alt": "Short video of flour and water being stirred together in the jar."},
+    {"file": "07.jpg", "alt": "A hand holding the jar with the freshly mixed starter. Text: After mixing it well, I put it in the warmest place in the house, at 22 to 24 degrees."},
+    {"file": "08.jpg", "alt": "Two jars resting on a radiator under a checked tea towel. Text: And then I wait... a little giddy. Will it grow?"},
+    {"file": "09.jpg", "alt": "The two jars by the window, seen a little closer. Text: Hours later, the first signs of fermentation. Yaay!"},
+    {"file": "10.jpg", "alt": "Close-up of the two jars with the starter rising. Text: And so it goes, for days. Some days look different, and some jars lag behind."},
+    {"file": "11.jpg", "alt": "A hand holding the jar with the first bubbles and a yellow rubber band. Text: But I always come back: 20 g starter, 20 g water, 20 g flour, until the culture grows stronger."},
+    {"file": "12.jpg", "alt": "The jar with a yellow rubber band marking the level. Text: I mark the level to see my progress."},
+    {"file": "13.jpg", "alt": "The jar with a blue rubber band marking the level. Text: I already start using it in breads, though I top it off with dry yeast, just in case."},
+    {"file": "14.jpg", "alt": "The risen, bubbly starter in the jar. Text: Growing my own starter is more than a daily ritual. Somehow, it is truly soul-nourishing."}
+  ]
+}
