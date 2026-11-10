@@ -1,0 +1,16 @@
+{
+  "title": "Another Crunchy Sourdough Loaf",
+  "format": "single_image",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-11-10"],
+  "season": ["autumn", "cold season"],
+  "tags": ["sourdough", "bread", "crunchy loaf", "baking", "cold season", "berlin", "budapest", "timisoara"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "IMG_5229 - Sourdough loaf in hand.jpg",
+      "alt": "A hand holding a round sourdough loaf with a dark, crackled crust and scored top, in front of a blue-grey kitchen with a wooden floor"
+    }
+  ]
+}
