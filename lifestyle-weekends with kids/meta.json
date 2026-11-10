@@ -1,0 +1,20 @@
+{
+  "title": "Throwback to Halloween at Nirgendwo",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-10-31"],
+  "season": ["autumn", "cold season"],
+  "tags": ["halloween", "berlin", "berlin with kids", "weekend with kids", "bonfire", "nirgendwo", "family"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "IMG_4994 - Industrial building.jpg",
+      "alt": "A grey-green industrial building with large windows and a small entrance, framed by autumn trees and a cloudy blue sky"
+    },
+    {
+      "file": "IMG_4995 - Bonfire with marshmallow sticks.jpg",
+      "alt": "A bonfire in a metal fire bowl on cobblestones, with people sitting around it holding long sticks with bread dough over the flames"
+    }
+  ]
+}
