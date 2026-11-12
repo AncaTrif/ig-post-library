@@ -1,0 +1,40 @@
+{
+  "title": "Copper Pan Market Find",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": [
+    "2026-10-28",
+    "2026-11-02"
+  ],
+  "season": [
+    "autumn"
+  ],
+  "tags": [
+    "copper pan",
+    "market find",
+    "flea market",
+    "vintage kitchen",
+    "shashuka",
+    "berlin"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "01.jpg",
+      "alt": "A hand holding a hammered silver-colored pan with two ornate shell-shaped handles over a wooden floor. Text: This little copper pan is one of my favorite finds."
+    },
+    {
+      "file": "02.jpg",
+      "alt": "The copper underside of the hammered pan with its ornate handles, held in a hand. Text: It once hosted amazing shashuka dishes and who knows what else."
+    },
+    {
+      "file": "03.jpg",
+      "alt": "The pan filled with dark chocolate pieces, raisins and walnuts, held by a hand next to a window with a plant. Text: Now it is mostly fit for nuts and fruit."
+    },
+    {
+      "file": "04.jpg",
+      "alt": "The pan filled with raisins, almonds, walnuts, goji berries and dark chocolate, held over a woven chair. Text: Until we give her a new tinning treatment for safely cooking in it."
+    }
+  ]
+}
