@@ -1,0 +1,29 @@
+{
+  "title": "Painting: Aubergine Baking",
+  "format": "single_image",
+  "post_type": "lifestyle",
+  "photo_dates": [
+    "2026-11-12"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "painting",
+    "gouache",
+    "aubergine",
+    "romanian",
+    "countryside",
+    "illustration",
+    "kitchen"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "IMG_5263.jpg",
+      "alt": "A gouache painting of a woman in a bright blue top and boots leaning over an old yellow yard stove with a dark top, where a few aubergines are baking. A stovepipe puffs grey smoke, logs lie around the base, green leaves hang in from the right, and a table in the foreground holds a spoon, a clay jug, garlic and a white plate."
+    }
+  ]
+}
