@@ -1,0 +1,17 @@
+{
+  "title": "Hungarian-Inspired Pork Stew with Potatoes & Autumn Pasta",
+  "format": "reel",
+  "cover": "cover.jpg",
+  "post_type": "food",
+  "photo_dates": ["2026-11-06"],
+  "season": ["autumn", "cold season"],
+  "tags": ["pork", "hungarian", "paprika", "potatoes", "pasta", "stew", "one-pot", "dutch oven", "pickled peppers", "recipe"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "reel.mp4",
+      "alt": "A kitchen video of pork pieces, onion, tomato paste and potatoes simmering into a paprika stew in a Dutch oven, served with coloured autumn pasta and pickled hot peppers."
+    }
+  ]
+}
