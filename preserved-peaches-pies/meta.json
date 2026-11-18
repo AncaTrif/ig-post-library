@@ -1,0 +1,46 @@
+{
+  "title": "Peach, Cardamom & Lemon Blätterteig Turnovers",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": [
+    "2026-10-24"
+  ],
+  "season": [
+    "autumn"
+  ],
+  "tags": [
+    "turnovers",
+    "hand pies",
+    "puff pastry",
+    "blätterteig",
+    "peach",
+    "cardamom",
+    "lemon",
+    "baking",
+    "home"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "1.jpg",
+      "alt": "A tray of golden baked hand pies on baking paper on the stove, beside a white baking dish with a lasagna and a spatula."
+    },
+    {
+      "file": "2.jpg",
+      "alt": "A hand with dark nail polish holding a golden, flaky baked hand pie above the tray of more pies."
+    },
+    {
+      "file": "3.jpg",
+      "alt": "Top view of a steel pot with a mixture of oats, seeds and a spoon, next to a jar with a red lid on a wooden table."
+    },
+    {
+      "file": "4.jpg",
+      "alt": "Unbaked, folded puff pastry hand pies with small slits, lined up on a baking tray covered with baking paper."
+    },
+    {
+      "file": "5.mp4",
+      "alt": "Close-up video of brushing the hand pies with egg wash before baking."
+    }
+  ]
+}
