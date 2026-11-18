@@ -1,0 +1,17 @@
+{
+  "title": "Young Rooster Stew with Zucchini, Risotto Rice & Dill",
+  "format": "reel",
+  "cover": "cover.jpg",
+  "post_type": "food",
+  "photo_dates": ["2026-11-04"],
+  "season": ["autumn", "cold season"],
+  "tags": ["rooster", "chicken", "stew", "zucchini", "risotto rice", "dill", "one-pot", "dutch oven", "romanian", "recipe"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "reel.mp4",
+      "alt": "A kitchen video of young rooster pieces, frozen zucchini and risotto rice cooking into a creamy stew with dill and parsley in a Dutch oven."
+    }
+  ]
+}
