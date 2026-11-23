@@ -1,0 +1,14 @@
+{
+  "title": "Apple-Banana Plăcintă with Spelt & Lard Pastry",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-11-12"],
+  "season": ["autumn", "cold season"],
+  "tags": ["apple pie", "plăcintă", "apple", "banana", "spelt", "lard", "schmalz", "traybake", "romanian", "baking", "recipe"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "1.jpg", "alt": "A tray of apple pie cut into rectangular bars with golden spelt pastry on a pale blue plate, on a woven mat, with the text \"This is what happiness looks like.\""},
+    {"file": "2.jpg", "alt": "A few pieces of apple pie with golden crust and soft apple filling on a pale blue plate, with a white shape in the lower right holding the text \"This pie's crumble, mmmm, mmmm, ok I'm eating, don't talk to me.\""}
+  ]
+}
