@@ -1,0 +1,32 @@
+{
+  "title": "Rooster Stew: Ingredients from Home",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-11-04"],
+  "season": ["autumn", "cold season"],
+  "tags": ["rooster", "chicken", "stew", "zucchini", "risotto rice", "schmalz", "zarzavat", "romanian", "home", "one-pot"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "1.jpg",
+      "alt": "A kitchen stove with a grey Dutch oven of browning rooster pieces and onion, a pan of diced zucchini, a jar of zarzavat, a glass of frozen dill and a small bowl of parsley on a wooden board."
+    },
+    {
+      "file": "2.jpg",
+      "alt": "A hand holding a jar of golden chicken schmalz with a handwritten label in a kitchen."
+    },
+    {
+      "file": "3.jpg",
+      "alt": "A hand holding a jar of red-orange homemade zarzavat labelled \"Mama's Zarzavat\" in front of a window and a snake plant."
+    },
+    {
+      "file": "4.jpg",
+      "alt": "A table from above with a plate of rooster stew with rice and zucchini, a bowl of pickled cucumbers, a jar of pickles, a bowl of stew and a small dish of salt on a leaf-patterned tablecloth."
+    },
+    {
+      "file": "5.jpg",
+      "alt": "A close-up of a nearly finished bowl of creamy rooster stew with rice, zucchini and dill, a spoon in the bowl and a chicken bone at the side."
+    }
+  ]
+}
