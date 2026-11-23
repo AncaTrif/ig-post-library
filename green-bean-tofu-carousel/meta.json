@@ -1,0 +1,17 @@
+{
+  "title": "Autumn at My Table: Green Bean, Potato & Tofu Skillet",
+  "format": "carousel",
+  "post_type": "food",
+  "photo_dates": ["2026-11-02"],
+  "season": ["autumn", "cold season"],
+  "tags": ["autumn", "green beans", "potato", "tofu", "skillet", "pumpkin", "pumpkin seeds", "pickles", "poem", "romanian", "home"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "1.jpg", "alt": "A red-orange pumpkin, a basket of bread rolls and a hammered metal pan of roasted pumpkin seeds on a leaf-patterned tablecloth, with the text \"When autumn comes to my table, I don't shrink in fear.\""},
+    {"file": "2.jpg", "alt": "A blue and white fish-patterned plate of green bean, potato and tofu stew on a woven mat, next to a Staub pan with more stew, with the text \"I invite her to sit down, it's been a while. She must be tired.\""},
+    {"file": "3.jpg", "alt": "A white bowl of green beans and potatoes in tomato sauce on a leaf-patterned tablecloth, with a pan of pumpkin seeds and a pumpkin in the background, with the text \"She offers me her gifts, pumpkins and pumpkin seeds. And ripe apples and freshly preserved pickles.\""},
+    {"file": "4.jpg", "alt": "A black skillet of green beans, potatoes and tofu cubes with a wooden spoon, with the text \"I take a clean plate from the cupboard.\""},
+    {"file": "5.jpg", "alt": "From above, a blue and white plate of green bean, potato and tofu stew, a small white dish of pickled gherkins and a Staub pan of stew, with the text \"And as she sits there drawing her breath, I fill her plate, it's time she reaped what she has sown.\""}
+  ]
+}
