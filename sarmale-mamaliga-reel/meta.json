@@ -1,0 +1,34 @@
+{
+  "title": "Spiced Romanian Sarmale with Tomato Sauce & Mămăligă",
+  "format": "reel",
+  "cover": "cover.jpg",
+  "post_type": "food",
+  "photo_dates": [
+    "2026-11-10"
+  ],
+  "season": [
+    "autumn",
+    "cold season"
+  ],
+  "tags": [
+    "sarmale",
+    "romanian",
+    "cabbage rolls",
+    "mamaliga",
+    "polenta",
+    "tradition",
+    "family food",
+    "tomato sauce",
+    "dutch oven",
+    "freezer",
+    "story"
+  ],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {
+      "file": "reel.mp4",
+      "alt": "A kitchen video of Romanian sarmale (cabbage rolls) simmering in a spiced tomato sauce in a Dutch oven and served on mămăligă (Romanian polenta), with a short story about the dish on screen."
+    }
+  ]
+}
