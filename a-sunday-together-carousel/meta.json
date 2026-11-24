@@ -1,0 +1,21 @@
+{
+  "title": "A Sunday Together",
+  "format": "carousel",
+  "post_type": "lifestyle",
+  "photo_dates": ["2026-11-21", "2026-11-22"],
+  "season": ["autumn", "cold season"],
+  "tags": ["sunday", "cozy", "november", "sourdough", "buns", "playground", "berlin", "ghibli", "movie night", "snacks", "family"],
+  "pin_to_date": null,
+  "not_before": null,
+  "slides": [
+    {"file": "1.jpg", "alt": "A mirror selfie in a bright apartment, a woman in pajamas with a small child on her back, with the text \"At 6:01 am, pajamas on, I'm a dragon saving a little mouse.\""},
+    {"file": "2.jpg", "alt": "A woven basket of freshly baked golden buns on a dark wooden counter, with the text \"At 7:01, the buns are just freshly out of the oven, turned golden.\""},
+    {"file": "3.jpg", "alt": "From above, a freshly baked sourdough loaf in a black pan on a baking tray, next to a basket of buns, with the text \"At 9:01, the sourdough too is out of the oven. This is how a normal Sunday morning goes.\""},
+    {"file": "4.jpg", "alt": "A playground in front of Berlin apartment buildings under a blue sky with a few adults and a child walking, with the text \"Outside, a dim orange-purple light that we call daylight in November.\""},
+    {"file": "5.jpg", "alt": "A wooden dragon playground structure and a metal slide in front of apartment buildings, with a few people standing on the sand, with the text \"We continue to climb dragons even outside in the cold.\""},
+    {"file": "6.jpg", "alt": "A yellow-green bush in a playground in front of tall apartment buildings under a blue sky, with the text \"It almost seems that the sun could peek through just a tiny bit to make the photo better. But no...\""},
+    {"file": "7.jpg", "alt": "A tree-lined Berlin pavement on a cloudy day with parked bikes, a caravan and a colorful mural, with the text \"At 3:01 pm it is drizzly and cold. Heading back to our cozy place.\""},
+    {"file": "8.jpg", "alt": "A round wooden coffee table with bowls of snacks, tangerine segments and bags of chips, with plants along the wall behind it, with the text \"Armed with very dangerous but delicious things, we wait for the installation.\""},
+    {"file": "9.jpg", "alt": "A dim blue living room with a projected Studio Ghibli logo on the wall and a coffee table with bowls of snacks, with the text \"A favorite pastime for a gloomy Sunday in November.\""}
+  ]
+}
